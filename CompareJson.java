@@ -1,4 +1,4 @@
-package com.capitalone.dsd.identity;
+
 
 import org.skyscreamer.jsonassert.Customization;
 import org.skyscreamer.jsonassert.JSONAssert;
